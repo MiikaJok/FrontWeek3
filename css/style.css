@@ -92,6 +92,7 @@ header {
     color: chocolate;
 }
 #left {
+    border-radius: 20px;
     display: flex;
     background-color: whitesmoke;
     flex: 1;
